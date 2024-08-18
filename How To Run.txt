@@ -1,0 +1,26 @@
+1) Change the database url in the following two paths
+
+    i) Blog-Website\server\database\db.js
+    ii) Blog-Website\server\utils\upload.js
+
+2) Then Start the MongoDB Server and connect with application
+
+3) Then go to the path ====> Blog-Website\server
+
+4) Then run command ====> npm install
+
+5) Then go to the path ====> Blog-Website\client
+
+6) Then run ====> npm install
+
+7) Then ====> cd Blog-Website\server 
+
+8) Then run command ====> npm run start
+
+9) Keep This Terminal open and then cd Blog-Website\client
+
+10) Then run command ====> npm run start 
+
+
+
+
